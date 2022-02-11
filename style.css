@@ -1,0 +1,28 @@
+#map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#mapimg {
+    width: 600px;
+    height: 400px;
+    cursor: pointer;
+}
+
+h1 {
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 20px;  
+    border-radius: 2%;
+    text-transform: uppercase;
+    
+}
+
+h1:hover{
+   
+    color: black;
+}
